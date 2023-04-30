@@ -1,0 +1,8 @@
+E:\csharp\exchandling\exchandling\bin\Debug\exchandling.exe.config
+E:\csharp\exchandling\exchandling\bin\Debug\exchandling.exe
+E:\csharp\exchandling\exchandling\bin\Debug\exchandling.pdb
+E:\csharp\exchandling\exchandling\obj\Debug\exchandling.csproj.AssemblyReference.cache
+E:\csharp\exchandling\exchandling\obj\Debug\exchandling.csproj.SuggestedBindingRedirects.cache
+E:\csharp\exchandling\exchandling\obj\Debug\exchandling.csproj.CoreCompileInputs.cache
+E:\csharp\exchandling\exchandling\obj\Debug\exchandling.exe
+E:\csharp\exchandling\exchandling\obj\Debug\exchandling.pdb

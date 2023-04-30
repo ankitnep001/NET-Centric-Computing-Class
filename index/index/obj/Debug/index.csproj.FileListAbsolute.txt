@@ -1,0 +1,8 @@
+E:\csharp\index\index\bin\Debug\index.exe.config
+E:\csharp\index\index\bin\Debug\index.exe
+E:\csharp\index\index\bin\Debug\index.pdb
+E:\csharp\index\index\obj\Debug\index.csproj.AssemblyReference.cache
+E:\csharp\index\index\obj\Debug\index.csproj.SuggestedBindingRedirects.cache
+E:\csharp\index\index\obj\Debug\index.csproj.CoreCompileInputs.cache
+E:\csharp\index\index\obj\Debug\index.exe
+E:\csharp\index\index\obj\Debug\index.pdb

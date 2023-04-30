@@ -1,0 +1,8 @@
+E:\csharp\Comstruct\Comstruct\bin\Debug\Comstruct.exe.config
+E:\csharp\Comstruct\Comstruct\bin\Debug\Comstruct.exe
+E:\csharp\Comstruct\Comstruct\bin\Debug\Comstruct.pdb
+E:\csharp\Comstruct\Comstruct\obj\Debug\Comstruct.csproj.AssemblyReference.cache
+E:\csharp\Comstruct\Comstruct\obj\Debug\Comstruct.csproj.SuggestedBindingRedirects.cache
+E:\csharp\Comstruct\Comstruct\obj\Debug\Comstruct.csproj.CoreCompileInputs.cache
+E:\csharp\Comstruct\Comstruct\obj\Debug\Comstruct.exe
+E:\csharp\Comstruct\Comstruct\obj\Debug\Comstruct.pdb

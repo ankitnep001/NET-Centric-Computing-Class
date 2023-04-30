@@ -1,0 +1,8 @@
+E:\csharp\ashynch\ashynch\bin\Debug\ashynch.exe.config
+E:\csharp\ashynch\ashynch\bin\Debug\ashynch.exe
+E:\csharp\ashynch\ashynch\bin\Debug\ashynch.pdb
+E:\csharp\ashynch\ashynch\obj\Debug\ashynch.csproj.AssemblyReference.cache
+E:\csharp\ashynch\ashynch\obj\Debug\ashynch.csproj.SuggestedBindingRedirects.cache
+E:\csharp\ashynch\ashynch\obj\Debug\ashynch.csproj.CoreCompileInputs.cache
+E:\csharp\ashynch\ashynch\obj\Debug\ashynch.exe
+E:\csharp\ashynch\ashynch\obj\Debug\ashynch.pdb

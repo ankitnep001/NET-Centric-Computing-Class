@@ -1,0 +1,8 @@
+E:\csharp\classes\classes\bin\Debug\classes.exe.config
+E:\csharp\classes\classes\bin\Debug\classes.exe
+E:\csharp\classes\classes\bin\Debug\classes.pdb
+E:\csharp\classes\classes\obj\Debug\classes.csproj.AssemblyReference.cache
+E:\csharp\classes\classes\obj\Debug\classes.csproj.SuggestedBindingRedirects.cache
+E:\csharp\classes\classes\obj\Debug\classes.csproj.CoreCompileInputs.cache
+E:\csharp\classes\classes\obj\Debug\classes.exe
+E:\csharp\classes\classes\obj\Debug\classes.pdb

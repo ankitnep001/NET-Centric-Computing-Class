@@ -1,0 +1,8 @@
+E:\csharp\destruct\destruct\bin\Debug\destruct.exe.config
+E:\csharp\destruct\destruct\bin\Debug\destruct.exe
+E:\csharp\destruct\destruct\bin\Debug\destruct.pdb
+E:\csharp\destruct\destruct\obj\Debug\destruct.csproj.AssemblyReference.cache
+E:\csharp\destruct\destruct\obj\Debug\destruct.csproj.SuggestedBindingRedirects.cache
+E:\csharp\destruct\destruct\obj\Debug\destruct.csproj.CoreCompileInputs.cache
+E:\csharp\destruct\destruct\obj\Debug\destruct.exe
+E:\csharp\destruct\destruct\obj\Debug\destruct.pdb

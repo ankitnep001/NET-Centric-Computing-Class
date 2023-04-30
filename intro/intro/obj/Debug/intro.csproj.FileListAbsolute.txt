@@ -1,0 +1,8 @@
+E:\csharp\intro\intro\bin\Debug\intro.exe.config
+E:\csharp\intro\intro\bin\Debug\intro.exe
+E:\csharp\intro\intro\bin\Debug\intro.pdb
+E:\csharp\intro\intro\obj\Debug\intro.csproj.AssemblyReference.cache
+E:\csharp\intro\intro\obj\Debug\intro.csproj.SuggestedBindingRedirects.cache
+E:\csharp\intro\intro\obj\Debug\intro.csproj.CoreCompileInputs.cache
+E:\csharp\intro\intro\obj\Debug\intro.exe
+E:\csharp\intro\intro\obj\Debug\intro.pdb

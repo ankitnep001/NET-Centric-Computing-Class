@@ -1,0 +1,8 @@
+E:\csharp\loops\loops\bin\Debug\loops.exe.config
+E:\csharp\loops\loops\bin\Debug\loops.exe
+E:\csharp\loops\loops\bin\Debug\loops.pdb
+E:\csharp\loops\loops\obj\Debug\loops.csproj.AssemblyReference.cache
+E:\csharp\loops\loops\obj\Debug\loops.csproj.SuggestedBindingRedirects.cache
+E:\csharp\loops\loops\obj\Debug\loops.csproj.CoreCompileInputs.cache
+E:\csharp\loops\loops\obj\Debug\loops.exe
+E:\csharp\loops\loops\obj\Debug\loops.pdb

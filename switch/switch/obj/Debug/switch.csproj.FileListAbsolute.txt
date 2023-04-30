@@ -1,0 +1,8 @@
+E:\csharp\switch\switch\bin\Debug\@switch.exe.config
+E:\csharp\switch\switch\bin\Debug\@switch.exe
+E:\csharp\switch\switch\bin\Debug\@switch.pdb
+E:\csharp\switch\switch\obj\Debug\switch.csproj.AssemblyReference.cache
+E:\csharp\switch\switch\obj\Debug\switch.csproj.SuggestedBindingRedirects.cache
+E:\csharp\switch\switch\obj\Debug\switch.csproj.CoreCompileInputs.cache
+E:\csharp\switch\switch\obj\Debug\@switch.exe
+E:\csharp\switch\switch\obj\Debug\@switch.pdb

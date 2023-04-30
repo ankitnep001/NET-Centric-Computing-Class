@@ -1,0 +1,8 @@
+E:\csharp\filesinput\filesinput\bin\Debug\filesinput.exe.config
+E:\csharp\filesinput\filesinput\bin\Debug\filesinput.exe
+E:\csharp\filesinput\filesinput\bin\Debug\filesinput.pdb
+E:\csharp\filesinput\filesinput\obj\Debug\filesinput.csproj.AssemblyReference.cache
+E:\csharp\filesinput\filesinput\obj\Debug\filesinput.csproj.SuggestedBindingRedirects.cache
+E:\csharp\filesinput\filesinput\obj\Debug\filesinput.csproj.CoreCompileInputs.cache
+E:\csharp\filesinput\filesinput\obj\Debug\filesinput.exe
+E:\csharp\filesinput\filesinput\obj\Debug\filesinput.pdb

@@ -1,0 +1,8 @@
+E:\csharp\abs\abs\bin\Debug\abs.exe.config
+E:\csharp\abs\abs\bin\Debug\abs.exe
+E:\csharp\abs\abs\bin\Debug\abs.pdb
+E:\csharp\abs\abs\obj\Debug\abs.csproj.AssemblyReference.cache
+E:\csharp\abs\abs\obj\Debug\abs.csproj.SuggestedBindingRedirects.cache
+E:\csharp\abs\abs\obj\Debug\abs.csproj.CoreCompileInputs.cache
+E:\csharp\abs\abs\obj\Debug\abs.exe
+E:\csharp\abs\abs\obj\Debug\abs.pdb
