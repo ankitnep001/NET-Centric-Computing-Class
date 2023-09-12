@@ -1,0 +1,40 @@
+﻿@model LearningMVC.Models.CollegeModel
+
+@{
+    ViewData["Title"] = "AddCollege";
+}
+
+<h1>AddCollege</h1>
+
+<h4>CollegeModel</h4>
+<hr />
+<div class="row">
+    <div class="col-md-4">
+        <form asp-action="CreateCollege">
+            <div asp-validation-summary="ModelOnly" class="text-danger"></div>
+            <div class="form-group">
+                <label asp-for="CollegeName" class="control-label"></label>
+                <input asp-for="CollegeName" class="form-control" />
+                <span asp-validation-for="CollegeName" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="CollegeAddress" class="control-label"></label>
+                <input asp-for="CollegeAddress" class="form-control" />
+                <span asp-validation-for="CollegeAddress" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <label asp-for="University" class="control-label"></label>
+                <input asp-for="University" class="form-control" />
+                <span asp-validation-for="University" class="text-danger"></span>
+            </div>
+            <div class="form-group">
+                <input type="submit" value="Create" class="btn btn-primary" />
+            </div>
+        </form>
+    </div>
+</div>
+
+<div>
+    <a asp-action="Index">Back to List</a>
+</div>
+

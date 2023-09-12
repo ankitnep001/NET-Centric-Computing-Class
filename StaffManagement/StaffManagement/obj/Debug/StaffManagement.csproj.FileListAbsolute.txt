@@ -1,0 +1,15 @@
+E:\csharp\StaffManagement\StaffManagement\bin\Debug\StaffManagement.exe.config
+E:\csharp\StaffManagement\StaffManagement\bin\Debug\StaffManagement.exe
+E:\csharp\StaffManagement\StaffManagement\bin\Debug\StaffManagement.pdb
+E:\csharp\StaffManagement\StaffManagement\bin\Debug\System.Data.SqlClient.dll
+E:\csharp\StaffManagement\StaffManagement\bin\Debug\System.Data.SqlClient.xml
+E:\csharp\StaffManagement\StaffManagement\obj\Debug\StaffManagement.csproj.AssemblyReference.cache
+E:\csharp\StaffManagement\StaffManagement\obj\Debug\StaffManagement.csproj.SuggestedBindingRedirects.cache
+E:\csharp\StaffManagement\StaffManagement\obj\Debug\StaffManagement.Form1.resources
+E:\csharp\StaffManagement\StaffManagement\obj\Debug\StaffManagement.login.resources
+E:\csharp\StaffManagement\StaffManagement\obj\Debug\StaffManagement.Properties.Resources.resources
+E:\csharp\StaffManagement\StaffManagement\obj\Debug\StaffManagement.csproj.GenerateResource.cache
+E:\csharp\StaffManagement\StaffManagement\obj\Debug\StaffManagement.csproj.CoreCompileInputs.cache
+E:\csharp\StaffManagement\StaffManagement\obj\Debug\StaffManagement.csproj.CopyComplete
+E:\csharp\StaffManagement\StaffManagement\obj\Debug\StaffManagement.exe
+E:\csharp\StaffManagement\StaffManagement\obj\Debug\StaffManagement.pdb
